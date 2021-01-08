@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.spring.servicebus.stream.binder.provisioning.ServiceBusChannelProvisioner.validateOrCreateForProducer*"
+fullName: "com.azure.spring.servicebus.stream.binder.provisioning.ServiceBusChannelProvisioner.validateOrCreateForProducer"
+name: "validateOrCreateForProducer"
+nameWithType: "ServiceBusChannelProvisioner.validateOrCreateForProducer"
+members:
+- uid: "com.azure.spring.servicebus.stream.binder.provisioning.ServiceBusChannelProvisioner.validateOrCreateForProducer(java.lang.String)"
+  fullName: "com.azure.spring.servicebus.stream.binder.provisioning.ServiceBusChannelProvisioner.validateOrCreateForProducer(String name)"
+  name: "validateOrCreateForProducer(String name)"
+  nameWithType: "ServiceBusChannelProvisioner.validateOrCreateForProducer(String name)"
+  parameters:
+  - name: "name"
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "protected void validateOrCreateForProducer(String name)"
+type: "method"
+metadata: {}
+package: "com.azure.spring.servicebus.stream.binder.provisioning"
+artifact: com.azure.spring:azure-spring-cloud-stream-binder-servicebus-core:2.0.0

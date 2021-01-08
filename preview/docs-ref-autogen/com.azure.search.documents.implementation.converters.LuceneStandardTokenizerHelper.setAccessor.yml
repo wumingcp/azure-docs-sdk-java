@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.LuceneStandardTokenizerHelper.setAccessor(LuceneStandardTokenizerHelper.LuceneStandardTokenizerAccessor tokenFilterAccessor)"
   name: "setAccessor(LuceneStandardTokenizerHelper.LuceneStandardTokenizerAccessor tokenFilterAccessor)"
   nameWithType: "LuceneStandardTokenizerHelper.setAccessor(LuceneStandardTokenizerHelper.LuceneStandardTokenizerAccessor tokenFilterAccessor)"
-  summary: "The method called from <xref uid=\"com.azure.search.documents.indexes.models.LuceneStandardTokenizer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LuceneStandardTokenizer\"></xref> to set it's accessor."
+  summary: "The method called from <xref uid=\"com.azure.search.documents.indexes.implementation.models.LuceneStandardTokenizer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LuceneStandardTokenizer\"></xref> to set it's accessor."
   parameters:
   - description: "The accessor."
     name: "tokenFilterAccessor"

@@ -3,7 +3,7 @@ uid: "com.azure.search.documents.implementation.converters.LuceneStandardTokeniz
 fullName: "com.azure.search.documents.implementation.converters.LuceneStandardTokenizerHelper"
 name: "LuceneStandardTokenizerHelper"
 nameWithType: "LuceneStandardTokenizerHelper"
-summary: "The helper class to set the non-public properties of an <xref uid=\"com.azure.search.documents.indexes.models.LuceneStandardTokenizer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LuceneStandardTokenizer\"></xref> instance."
+summary: "The helper class to set the non-public properties of an <xref uid=\"com.azure.search.documents.indexes.implementation.models.LuceneStandardTokenizer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LuceneStandardTokenizer\"></xref> instance."
 inheritances:
 - "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
 inheritedMembers:

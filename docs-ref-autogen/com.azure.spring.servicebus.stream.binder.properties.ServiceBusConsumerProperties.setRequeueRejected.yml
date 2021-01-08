@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.setRequeueRejected*"
+fullName: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.setRequeueRejected"
+name: "setRequeueRejected"
+nameWithType: "ServiceBusConsumerProperties.setRequeueRejected"
+members:
+- uid: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.setRequeueRejected(boolean)"
+  fullName: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.setRequeueRejected(boolean requeueRejected)"
+  name: "setRequeueRejected(boolean requeueRejected)"
+  nameWithType: "ServiceBusConsumerProperties.setRequeueRejected(boolean requeueRejected)"
+  parameters:
+  - name: "requeueRejected"
+    type: "<xref href=\"boolean?alt=boolean&text=boolean\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void setRequeueRejected(boolean requeueRejected)"
+type: "method"
+metadata: {}
+package: "com.azure.spring.servicebus.stream.binder.properties"
+artifact: com.azure.spring:azure-spring-cloud-stream-binder-servicebus-core:2.0.0

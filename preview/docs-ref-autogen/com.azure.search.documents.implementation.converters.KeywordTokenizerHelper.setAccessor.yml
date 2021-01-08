@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.KeywordTokenizerHelper.setAccessor(KeywordTokenizerHelper.KeywordTokenizerAccessor keywordTokenizerAccessor)"
   name: "setAccessor(KeywordTokenizerHelper.KeywordTokenizerAccessor keywordTokenizerAccessor)"
   nameWithType: "KeywordTokenizerHelper.setAccessor(KeywordTokenizerHelper.KeywordTokenizerAccessor keywordTokenizerAccessor)"
-  summary: "The method called from <xref uid=\"com.azure.search.documents.indexes.models.KeywordTokenizer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"KeywordTokenizer\"></xref> to set it's accessor."
+  summary: "The method called from <xref uid=\"com.azure.search.documents.indexes.implementation.models.KeywordTokenizer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"KeywordTokenizer\"></xref> to set it's accessor."
   parameters:
   - description: "The accessor."
     name: "keywordTokenizerAccessor"

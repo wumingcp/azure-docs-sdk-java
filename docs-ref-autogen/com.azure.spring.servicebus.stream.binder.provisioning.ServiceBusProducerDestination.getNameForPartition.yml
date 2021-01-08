@@ -1,0 +1,20 @@
+### YamlMime:JavaMember
+uid: "com.azure.spring.servicebus.stream.binder.provisioning.ServiceBusProducerDestination.getNameForPartition*"
+fullName: "com.azure.spring.servicebus.stream.binder.provisioning.ServiceBusProducerDestination.getNameForPartition"
+name: "getNameForPartition"
+nameWithType: "ServiceBusProducerDestination.getNameForPartition"
+members:
+- uid: "com.azure.spring.servicebus.stream.binder.provisioning.ServiceBusProducerDestination.getNameForPartition(int)"
+  fullName: "com.azure.spring.servicebus.stream.binder.provisioning.ServiceBusProducerDestination.getNameForPartition(int partition)"
+  name: "getNameForPartition(int partition)"
+  nameWithType: "ServiceBusProducerDestination.getNameForPartition(int partition)"
+  parameters:
+  - name: "partition"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public String getNameForPartition(int partition)"
+  returns:
+    type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.spring.servicebus.stream.binder.provisioning"
+artifact: com.azure.spring:azure-spring-cloud-stream-binder-servicebus-core:2.0.0

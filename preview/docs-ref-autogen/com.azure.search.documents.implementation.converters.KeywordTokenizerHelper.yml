@@ -3,7 +3,7 @@ uid: "com.azure.search.documents.implementation.converters.KeywordTokenizerHelpe
 fullName: "com.azure.search.documents.implementation.converters.KeywordTokenizerHelper"
 name: "KeywordTokenizerHelper"
 nameWithType: "KeywordTokenizerHelper"
-summary: "The helper class to set the non-public properties of an <xref uid=\"com.azure.search.documents.indexes.models.KeywordTokenizer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"KeywordTokenizer\"></xref> instance."
+summary: "The helper class to set the non-public properties of an <xref uid=\"com.azure.search.documents.indexes.implementation.models.KeywordTokenizer\" data-throw-if-not-resolved=\"false\" data-raw-source=\"KeywordTokenizer\"></xref> instance."
 inheritances:
 - "<xref href=\"java.lang.Object\" data-throw-if-not-resolved=\"False\" />"
 inheritedMembers:

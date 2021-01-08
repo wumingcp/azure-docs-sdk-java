@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.setConcurrency*"
+fullName: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.setConcurrency"
+name: "setConcurrency"
+nameWithType: "ServiceBusConsumerProperties.setConcurrency"
+members:
+- uid: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.setConcurrency(int)"
+  fullName: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.setConcurrency(int concurrency)"
+  name: "setConcurrency(int concurrency)"
+  nameWithType: "ServiceBusConsumerProperties.setConcurrency(int concurrency)"
+  parameters:
+  - name: "concurrency"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void setConcurrency(int concurrency)"
+type: "method"
+metadata: {}
+package: "com.azure.spring.servicebus.stream.binder.properties"
+artifact: com.azure.spring:azure-spring-cloud-stream-binder-servicebus-core:2.0.0

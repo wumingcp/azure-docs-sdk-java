@@ -1,0 +1,18 @@
+### YamlMime:JavaMember
+uid: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusProducerProperties.setSendTimeout*"
+fullName: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusProducerProperties.setSendTimeout"
+name: "setSendTimeout"
+nameWithType: "ServiceBusProducerProperties.setSendTimeout"
+members:
+- uid: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusProducerProperties.setSendTimeout(long)"
+  fullName: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusProducerProperties.setSendTimeout(long sendTimeout)"
+  name: "setSendTimeout(long sendTimeout)"
+  nameWithType: "ServiceBusProducerProperties.setSendTimeout(long sendTimeout)"
+  parameters:
+  - name: "sendTimeout"
+    type: "<xref href=\"long?alt=long&text=long\" data-throw-if-not-resolved=\"False\" />"
+  syntax: "public void setSendTimeout(long sendTimeout)"
+type: "method"
+metadata: {}
+package: "com.azure.spring.servicebus.stream.binder.properties"
+artifact: com.azure.spring:azure-spring-cloud-stream-binder-servicebus-core:2.0.0

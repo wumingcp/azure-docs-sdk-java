@@ -1,0 +1,19 @@
+### YamlMime:JavaMember
+uid: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.getConcurrency*"
+fullName: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.getConcurrency"
+name: "getConcurrency"
+nameWithType: "ServiceBusConsumerProperties.getConcurrency"
+members:
+- uid: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.getConcurrency()"
+  fullName: "com.azure.spring.servicebus.stream.binder.properties.ServiceBusConsumerProperties.getConcurrency()"
+  name: "getConcurrency()"
+  nameWithType: "ServiceBusConsumerProperties.getConcurrency()"
+  summary: "Controls the max concurrent calls of service bus message handler and the size of fixed thread pool that handles user's business logic"
+  syntax: "public int getConcurrency()"
+  returns:
+    description: "int, default : 1"
+    type: "<xref href=\"int?alt=int&text=int\" data-throw-if-not-resolved=\"False\" />"
+type: "method"
+metadata: {}
+package: "com.azure.spring.servicebus.stream.binder.properties"
+artifact: com.azure.spring:azure-spring-cloud-stream-binder-servicebus-core:2.0.0
