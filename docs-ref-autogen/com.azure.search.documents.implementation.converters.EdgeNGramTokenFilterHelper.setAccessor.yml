@@ -8,7 +8,7 @@ members:
   fullName: "com.azure.search.documents.implementation.converters.EdgeNGramTokenFilterHelper.setAccessor(EdgeNGramTokenFilterHelper.EdgeNGramTokenFilterAccessor tokenFilterAccessor)"
   name: "setAccessor(EdgeNGramTokenFilterHelper.EdgeNGramTokenFilterAccessor tokenFilterAccessor)"
   nameWithType: "EdgeNGramTokenFilterHelper.setAccessor(EdgeNGramTokenFilterHelper.EdgeNGramTokenFilterAccessor tokenFilterAccessor)"
-  summary: "The method called from <xref uid=\"com.azure.search.documents.indexes.models.EdgeNGramTokenFilter\" data-throw-if-not-resolved=\"false\" data-raw-source=\"EdgeNGramTokenFilter\"></xref> to set it's accessor."
+  summary: "The method called from <xref uid=\"com.azure.search.documents.indexes.implementation.models.EdgeNGramTokenFilter\" data-throw-if-not-resolved=\"false\" data-raw-source=\"EdgeNGramTokenFilter\"></xref> to set it's accessor."
   parameters:
   - description: "The accessor."
     name: "tokenFilterAccessor"
