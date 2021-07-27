@@ -15,7 +15,7 @@ members:
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public LinkedEntityCollection recognizeLinkedEntities(String document)"
   returns:
-    description: "A <xref uid=\"com.azure.ai.textanalytics.models.LinkedEntityCollection\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LinkedEntityCollection\"></xref> contains a list of <xref uid=\"com.azure.ai.textanalytics.implementation.models.LinkedEntity\" data-throw-if-not-resolved=\"false\" data-raw-source=\"recognized linked entities\"></xref>."
+    description: "A <xref uid=\"com.azure.ai.textanalytics.models.LinkedEntityCollection\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LinkedEntityCollection\"></xref> contains a list of <xref uid=\"com.azure.ai.textanalytics.models.LinkedEntity\" data-throw-if-not-resolved=\"false\" data-raw-source=\"recognized linked entities\"></xref>."
     type: "<xref href=\"com.azure.ai.textanalytics.models.LinkedEntityCollection?alt=com.azure.ai.textanalytics.models.LinkedEntityCollection&text=LinkedEntityCollection\" data-throw-if-not-resolved=\"False\" />"
 - uid: "com.azure.ai.textanalytics.TextAnalyticsClient.recognizeLinkedEntities(java.lang.String,java.lang.String)"
   fullName: "com.azure.ai.textanalytics.TextAnalyticsClient.recognizeLinkedEntities(String document, String language)"
@@ -31,7 +31,7 @@ members:
     type: "<xref href=\"java.lang.String?alt=java.lang.String&text=String\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public LinkedEntityCollection recognizeLinkedEntities(String document, String language)"
   returns:
-    description: "A <xref uid=\"com.azure.ai.textanalytics.models.LinkedEntityCollection\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LinkedEntityCollection\"></xref> contains a list of <xref uid=\"com.azure.ai.textanalytics.implementation.models.LinkedEntity\" data-throw-if-not-resolved=\"false\" data-raw-source=\"recognized linked entities\"></xref>."
+    description: "A <xref uid=\"com.azure.ai.textanalytics.models.LinkedEntityCollection\" data-throw-if-not-resolved=\"false\" data-raw-source=\"LinkedEntityCollection\"></xref> contains a list of <xref uid=\"com.azure.ai.textanalytics.models.LinkedEntity\" data-throw-if-not-resolved=\"false\" data-raw-source=\"recognized linked entities\"></xref>."
     type: "<xref href=\"com.azure.ai.textanalytics.models.LinkedEntityCollection?alt=com.azure.ai.textanalytics.models.LinkedEntityCollection&text=LinkedEntityCollection\" data-throw-if-not-resolved=\"False\" />"
 type: "method"
 metadata: {}
