@@ -2,7 +2,7 @@
   "build_entry_point": "docs",
   "docsets_to_publish": [
     {
-      "docset_name": "AzureJava",
+      "docset_name": "AzureJava-pecu-test",
       "build_source_folder": ".",
       "build_output_subfolder": "azure/sdk/java",
       "locale": "en-us",
